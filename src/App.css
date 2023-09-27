@@ -9,7 +9,7 @@
 
 *::-webkit-scrollbar {
   width: 8px;
-  background-color: grey;
+  background-color: rgb(225, 16, 16);
 }
 
 a {
