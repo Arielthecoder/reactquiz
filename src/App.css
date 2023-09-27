@@ -19,7 +19,7 @@ a {
 
 .app {
   min-height: 98.5vh;
-  border: 8px solid rgb(228, 255, 90);
+  border: 8px solid maroon;
   margin: 5px;
   padding: 5px;
 }
